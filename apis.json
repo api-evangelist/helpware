@@ -1,0 +1,55 @@
+{
+    "name": "Helpware",
+    "description": "<p>Helpware (www.helpware.io) provides companies with a team of highly educated people to provide back office services for companies, and they take the messy non-profitable work off the plate of a highly paid employee so they can spend their time on higher value tasks. Services include support across an operations team in customer service, accounting support, marketing support, and on-boarding customers efficiently.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/helpware-logo.png",
+    "tags": [
+        "api provider",
+        "crowdsourcing",
+        "have api",
+        "profile",
+        "tasks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/helpware\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Helpware",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/helpware-logo.png",
+            "humanURL": "http:\/\/www.helpware.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/helpware-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.helpware.io\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.helpware.io\/blog\/rss.xml"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.helpware.io\/helpwareapi"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/helpwareio"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.helpware.io\/"
+        }
+    ]
+}
